@@ -1,2 +1,1 @@
-# inf-cst-main
-Inferential Statistics Case Studies
+# Inferential Statistics Case Studies
