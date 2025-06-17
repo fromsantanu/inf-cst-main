@@ -1,4 +1,4 @@
-# Inferential Statistics Case Studies
+# Inferential Case Studies
 
 
 ## Table of content
